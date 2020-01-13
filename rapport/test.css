@@ -1,0 +1,66 @@
+body{
+	background: #ccc;
+	font-family: 'comic sans ms';
+	text-align: center;
+	
+	
+}
+.title{
+	text-shadow:0 0 4px red;
+	box-shadow: 0 6px 6px 3px rgb(102, 99, 99);
+	max-width: 600px;
+	margin-left: 230px;
+	border-radius: 3rem;
+}
+.structur{
+  max-width: 1060px;
+  margin: 40px auto;
+  padding: 32px;
+  background: rgb(241, 239, 239);
+  box-shadow: 0 6px 10px 6px rgb(251, 252, 252);
+}
+img{
+	border-radius: 3rem;
+
+}
+.title2{
+	color: red;
+}
+
+p{
+	text-align: justify;
+	text-align: center;
+	background-color: #ccc;
+	border-radius: 2rem;
+}
+mark{
+	background-color: #ccc;
+	text-decoration: underline;
+}
+
+ul {
+    width: 0%;
+    margin: auto;
+}
+table {
+  font-family: cursive;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #ccc;
+}
+.conclusion{
+	padding: 5px;
+	display: inline-block;
+	background-color: transparent;
+	border-radius: 3rem;
+	box-shadow:0 6px 6px black;
+}
